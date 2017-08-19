@@ -1,7 +1,9 @@
 
 ## 网盘资料链接
-
-
+* [官方最新资料](http://pan.baidu.com/share/init?shareid=3641650722&uk=3091391143)
+	* 密码: `gicu`
+* Q群 [迅为i.MX6开发板交流 公告链接](http://pan.baidu.com/s/1byMQ1S)  
+	* 密码: `xkzt`
 
 ## 学习网站链接
 	
